@@ -1,0 +1,69 @@
+Score 
+Puntuación 
+But
+x
+x
+x
+Quit
+Dejar
+Quitter
+Return
+Regreso
+Revenir
+Start Game
+Empezar juego
+Démarrer jeu
+Load Game
+Juego de carga
+Chargement du jeu
+Options
+Opciones	
+Les options
+Final Project
+Proyecto final
+Projet final
+Level 1
+Level 1
+Level 1
+Level 2
+Level 2
+Level 2
+Level 3
+Level 3
+Level 3
++
++
++
+-
+-
+-
+Languages
+Idiomas
+Langages
+English
+Inglés
+Anglais
+Spanish
+Español
+Espanol
+French
+Francés
+Francés
+Your Score:
+Tu Puntaje:
+Ton Score:
+You Hit: 
+Golpeaste:
+Vous Frappéz:
+Greatest Combo:
+Mejor Combo:
+Plus Grand Combo:
+Hit:
+Golpeas:
+Frappé:
+Missed:
+Perdido:
+Manqué:
+Final Result:
+Resultado Final:
+Résultat Final:
